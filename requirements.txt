@@ -1,0 +1,2 @@
+pyTelegramBotAPI
+sqlite3  # Built-in, but include if needed
